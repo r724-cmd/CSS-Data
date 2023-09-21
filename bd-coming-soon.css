@@ -1,6 +1,6 @@
 body {
   font-family: 'Karla', sans-serif;
-  background-image: url("../images/bg.jpg");
+  background-image: url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUbjqdIXz5t15WVTtuCLS3t2YwRr1sDrc4TYWDA3JiwuBhsZz84IWEn32rikT7jCDI56DE1LccycHrGi95PvAVoU3UPImizZNycwy8IEP5vm_0bVYct0bznFgHHXZC6lLDSFCyUekUk86JzXhsTGztra8Qi_pRqhtU1uzmcqxR9pJoews9l1MDQvjPvfmh/s16000/bg.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -13,7 +13,7 @@ body {
 .navbar-brand {
   margin-right: 0; }
   .navbar-brand img {
-    height: 30px; }
+    height: 35px; }
 
 .navbar-dark {
   padding-top: 35px;
